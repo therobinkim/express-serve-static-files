@@ -1,0 +1,15 @@
+{
+  "name": "express-static-multiple-files",
+  "version": "1.0.0",
+  "description": "https://stackoverflow.com/q/48128484/3814251",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Robin Kim <therobinkim@gmail.com>",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.16.2"
+  }
+}
